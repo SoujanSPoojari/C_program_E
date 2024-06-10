@@ -4,7 +4,6 @@ float temperature(float f)
 {
     float c;
     c=(5.0/9.0)*(f-32);
-    //printf("%f",c);
     return c;
 }
 int main()
